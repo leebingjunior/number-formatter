@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/leebingjunior/number-formatter.svg?branch=master)](https://travis-ci.org/leebingjunior/number-formatter)
 
+[![Coverage Status](https://coveralls.io/repos/github/leebingjunior/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/leebingjunior/number-formatter?branch=master)
+
 Number Formatter
 =========
 
